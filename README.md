@@ -69,7 +69,7 @@ Same logic as above but in bottom-up manner
 ## 👨‍💻 Author Info
 **🧑‍🎓 Ridham Garg**  
 🎓 B.Tech Computer Engineering, Thapar University, Patiala  
-📬 *ridhamgarg@example.com*
+📬 *Ridhamgarg000@gmail.com*
 
 ---
 
